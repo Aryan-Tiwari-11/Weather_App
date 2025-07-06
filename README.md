@@ -1,5 +1,7 @@
 🌤️ Weather App – A simple and responsive weather application built with ReactJS and Material UI. It fetches real-time weather data using a public Weather API. The project utilizes JSX, JavaScript, and CSS for a clean and functional user interface.
 
+![Weather App Screenshot](./public/screenshot.png)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
